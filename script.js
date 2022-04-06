@@ -46,7 +46,7 @@ let myArr2=[
 
 console.log( myArr2)
 
-3.
+// 3.
 
 let newObject={
     firstName:"Keti",
